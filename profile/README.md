@@ -19,7 +19,7 @@ A community-led project that is officially backed by the [charmbracelet][charm] 
 ## Our projects
 
 - [additional-bubbles][additional-bubbles], a collection of bubbles for the [bubbletea][bubbletea] library.
-- [awesome-charm][awesome-charm], the best of what the CLI has to offer.
+- [charm-in-the-wild][charm-in-the-wild], the best of what the CLI has to offer.
 
 ## How can I get involved?
 
@@ -39,7 +39,7 @@ From there, the community will leave feedback and help get your project added to
 ### But what if I don't want to transfer ownership?
 
 That's totally fine!
-You can add your project to the [awesome-charm][awesome-charm] list.
+You can add your project to the [charm-in-the-wild][charm-in-the-wild] list.
 
 ## Feedback
 
@@ -61,4 +61,4 @@ Charm热爱开源 • Charm loves open source
 [bubbletea]: https://github.com/charmbracelet/bubbletea
 [new-discussion]: https://github.com/charm-community/charm-community/discussions/new/choose
 [additional-bubbles]: https://github.com/charm-community/additional-bubbles
-[awesome-charm]: https://github.com/charm-community/awesome-charm
+[charm-in-the-wild]: https://github.com/charm-community/charm-in-the-wild
