@@ -12,22 +12,22 @@
 
 # The power of the community
 
-Welcome to charm community!
+Welcome to the Charm Community!
 
 A community-led project that is officially backed by the [charmbracelet][charm] organization.
 
 ## Our projects
 
-- [additional-bubbles][additional-bubbles], a collection of bubbles for the [bubbletea][bubbletea] library.
+- [additional-bubbles][additional-bubbles], a collection of Bubbles for the [Bubble Tea][bubbletea] library.
 - [charm-in-the-wild][charm-in-the-wild], the best of what the CLI has to offer.
 
 ## How can I get involved?
 
-We are always looking for more libraries, bubbles, and other awesome projects to include in our collection.
+We are always looking for more libraries, Bubbles, and other awesome projects to include in our collection.
 
 ### How can I get my library added?
 
-The first question you should ask is "is this better as a bubble?" If the answer is yes, consider adding it to the [additional-bubbles][additional-bubbles].
+The first question you should ask is “is this better as a bubble?” If the answer is yes, consider adding it to the [additional-bubbles][additional-bubbles].
 If you think your project is better suited as a standalone library, then you can make a [new discussion][new-discussion].
 From there, the community will leave feedback and help get your project added to the charm-community organization.
 
@@ -38,7 +38,7 @@ From there, the community will leave feedback and help get your project added to
 
 ### But what if I don't want to transfer ownership?
 
-That's totally fine!
+That’s totally fine!
 You can add your project to the [charm-in-the-wild][charm-in-the-wild] list.
 
 ## Feedback
