@@ -14,7 +14,12 @@
 
 Welcome to the Charm Community!
 
-A community-led project that is officially backed by the [charmbracelet][charm] organization.
+A community-led project that is officially backed by [Charm][charm].
+
+<p>
+    <a href="https://github.com/mistakenelf/teacup"><img src="https://github.com/mistakenelf/teacup/raw/main/assets/filetree.png" width="600" alt="Additional Bubbles Example">
+    </a>
+</p>
 
 ## Our projects
 
@@ -23,18 +28,22 @@ A community-led project that is officially backed by the [charmbracelet][charm] 
 
 ## How can I get involved?
 
-We are always looking for more libraries, Bubbles, and other awesome projects to include in our collection.
+We are always looking for more libraries, Bubbles, and other glamourous projects
+to include in the community collection.
 
 ### How can I get my library added?
 
-The first question you should ask is “is this better as a bubble?” If the answer is yes, consider adding it to the [additional-bubbles][additional-bubbles].
-If you think your project is better suited as a standalone library, then you can make a [new discussion][new-discussion].
-From there, the community will leave feedback and help get your project added to the charm-community organization.
+The first question you should ask is “is this better as a bubble?” If the answer
+is yes, consider adding it to the [additional-bubbles][additional-bubbles].  If
+you think your project is better suited as a standalone library, then you can
+make a [new discussion][new-discussion].  From there, the community will leave
+feedback and help get your project added to the charm-community organization.
 
 ### How can I get my plugin/extension added?
 
-If you have an awesome neovim plugin or a cool VSCode extension, then you can make a [new discussion][new-discussion].
-From there, the community will leave feedback and help get your project added to the charm-community organization.
+If you have an awesome Neovim plugin or a cool VS Code extension, then you can
+make a [new discussion][new-discussion].  From there, the community will leave
+feedback and help get your project added to the community org.
 
 ### But what if I don't want to transfer ownership?
 
@@ -59,6 +68,6 @@ Charm热爱开源 • Charm loves open source
 
 [charm]: https://github.com/charmbracelet
 [bubbletea]: https://github.com/charmbracelet/bubbletea
-[new-discussion]: https://github.com/charm-community/charm-community/discussions/new/choose
+[new-discussion]: https://github.com/orgs/charm-community/discussions/new/choose
 [additional-bubbles]: https://github.com/charm-community/additional-bubbles
 [charm-in-the-wild]: https://github.com/charm-community/charm-in-the-wild
