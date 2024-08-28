@@ -20,7 +20,7 @@ The official, unofficial hangout spot for community-led projects
 </h6>
 
 <p align="center">
-This is the spot for all community-led projects, with official backing from [Charm][charm]. This organization houses incredible projects built using the Charm ecosystem by the open source community.
+This is the spot for all community-led projects, with official backing from <a href="https://github.com/charmbracelet">Charm</a>. This organization houses incredible projects built using the Charm ecosystem by the open source community.
 </p>
 
 <p align="center">
