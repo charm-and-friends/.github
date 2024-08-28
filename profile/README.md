@@ -53,7 +53,7 @@ If you would like to have your project housed by the charm community org, then
 you can create a [new discussion][new-discussion] where the community can leave
 feedback and work to get your project transferred.
 
-> ![NOTE]
+> [!NOTE]
 > To be featured, projects must meet certain requirements outlined in the repository's README file.
 
 ## Feedback
