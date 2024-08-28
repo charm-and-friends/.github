@@ -10,45 +10,51 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# The power of the community
+<h3 align="center">
+	<img src="https://avatars.githubusercontent.com/u/57376114?s=200&v=4" width="100" style="border-radius: 10%" alt="Logo"/><br/>
+	Charm & Friends
+</h3>
 
-Welcome to the Charm Community!
+<h6 align="center">
+The official, unofficial hangout spot for community-led projects
+</h6>
 
-A community-led project that is officially backed by [Charm][charm].
+<p align="center">
+This is the spot for all community-led projects, with official backing from <a href="https://github.com/charmbracelet">Charm</a>. This organization houses incredible projects built using the Charm ecosystem by the open source community.
+</p>
 
-<p>
+<p align="center">
     <a href="https://github.com/mistakenelf/teacup"><img src="https://github.com/mistakenelf/teacup/raw/main/assets/filetree.png" width="600" alt="Additional Bubbles Example">
     </a>
 </p>
 
-## Our projects
+## Projects
 
 - [additional-bubbles][additional-bubbles], a collection of Bubbles for the [Bubble Tea][bubbletea] library.
 - [charm-in-the-wild][charm-in-the-wild], the best of what the CLI has to offer.
 
 ## How can I get involved?
 
-We are always looking for more libraries, Bubbles, and other glamourous projects
-to include in the community collection.
+First off, we are quite active on the [Charm Discord](https://charm.sh/chat), so that's a great place to join if you want to hang out with the community futher. Alright, let's talk code.
 
-### How can I get my library added?
+### Getting featured by the charm community
 
-The first question you should ask is “is this better as a bubble?” If the answer
-is yes, consider adding it to the [additional-bubbles][additional-bubbles].  If
-you think your project is better suited as a standalone library, then you can
-make a [new discussion][new-discussion].  From there, the community will leave
-feedback and help get your project added to the charm-community organization.
+If you've built a composable element for [Bubble Tea][bubbletea], similar to the
+officially supported [Bubbles][bubbles] components. You can open a pull request
+in the [additional-bubbles][additional-bubbles] repo to get on the list.
 
-### How can I get my plugin/extension added?
+If your project falls outside of the scope of a bubble, you can add your project
+to the [charm-in-the-wild][charm-in-the-wild] list.  Start by making a PR on
+that repository and we'll get you sorted from there!
 
-If you have an awesome Neovim plugin or a cool VS Code extension, then you can
-make a [new discussion][new-discussion].  From there, the community will leave
-feedback and help get your project added to the community org.
+### Transferring ownership to the charm community
 
-### But what if I don't want to transfer ownership?
+If you would like to have your project housed by the charm community org, then
+you can create a [new discussion][new-discussion] where the community can leave
+feedback and work to get your project transferred.
 
-That’s totally fine!
-You can add your project to the [charm-in-the-wild][charm-in-the-wild] list.
+> [!NOTE]
+> To be featured, projects must meet certain requirements outlined in the repository's README file.
 
 ## Feedback
 
@@ -67,6 +73,7 @@ Part of the [Charm](https://charm.sh) Community.
 Charm热爱开源 • Charm loves open source
 
 [charm]: https://github.com/charmbracelet
+[bubbles]: https://github.com/charmbracelet/bubbles
 [bubbletea]: https://github.com/charmbracelet/bubbletea
 [new-discussion]: https://github.com/orgs/charm-community/discussions/new/choose
 [additional-bubbles]: https://github.com/charm-community/additional-bubbles
