@@ -73,6 +73,7 @@ Part of the [Charm](https://charm.sh) Community.
 Charm热爱开源 • Charm loves open source
 
 [charm]: https://github.com/charmbracelet
+[bubbles]: https://github.com/charmbracelet/bubbles
 [bubbletea]: https://github.com/charmbracelet/bubbletea
 [new-discussion]: https://github.com/orgs/charm-community/discussions/new/choose
 [additional-bubbles]: https://github.com/charm-community/additional-bubbles
