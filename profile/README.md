@@ -39,10 +39,10 @@ First off, we are quite active on the [Charm Discord](https://charm.sh/chat), so
 
 If you've built a composable element for [Bubble Tea][bubbletea], similar to the
 officially supported [Bubbles][bubbles] components. You can open a pull request
-in the [additional-bubbles][additional-bubbles] repo to get on the list.
+in the [Additional Bubbles][additional-bubbles] repo to get on the list.
 
 If your project falls outside of the scope of a bubble, you can add your project
-to the [charm-in-the-wild][charm-in-the-wild] list.  Start by making a PR on
+to the [Charm in the Wild][charm-in-the-wild].  Start by making a PR on
 that repository and we'll get you sorted from there!
 
 ### Transferring ownership to the charm community
