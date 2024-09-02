@@ -1,6 +1,4 @@
-
 <!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
@@ -11,8 +9,8 @@
 -->
 
 <h3 align="center">
-	<img src="https://avatars.githubusercontent.com/u/57376114?s=200&v=4" width="100" style="border-radius: 10%" alt="Logo"/><br/>
-	Charm & Friends
+    <img width="128" src="https://github.com/user-attachments/assets/d074f8ed-76b9-409e-b5bc-431118734183" alt="Charm and Friends Logo"/><br/>
+    Charm & Friends
 </h3>
 
 <h6 align="center">
