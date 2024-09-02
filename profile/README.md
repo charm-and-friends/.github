@@ -28,14 +28,14 @@ This is the spot for all community-led projects, with official backing from <a h
 
 ## Projects
 
-- [additional-bubbles][additional-bubbles], a collection of Bubbles for the [Bubble Tea][bubbletea] library.
-- [charm-in-the-wild][charm-in-the-wild], the best of what the CLI has to offer.
+- [Charm in the Wild][charm-in-the-wild], the best of what the CLI has to offer.
+- [Additional Bubbles][additional-bubbles], a collection of Bubbles for the [Bubble Tea][bubbletea] library.
 
 ## How can I get involved?
 
 First off, we are quite active on the [Charm Discord](https://charm.sh/chat), so that's a great place to join if you want to hang out with the community futher. Alright, let's talk code.
 
-### Getting featured by the charm community
+### Getting featured by the Charm & Friends
 
 If you've built a composable element for [Bubble Tea][bubbletea], similar to the
 officially supported [Bubbles][bubbles] components. You can open a pull request
@@ -45,7 +45,7 @@ If your project falls outside of the scope of a bubble, you can add your project
 to the [Charm in the Wild][charm-in-the-wild].  Start by making a PR on
 that repository and we'll get you sorted from there!
 
-### Transferring ownership to the charm community
+### Transferring ownership to Charm & Friends
 
 If you would like to have your project housed by the charm community org, then
 you can create a [new discussion][new-discussion] where the community can leave
