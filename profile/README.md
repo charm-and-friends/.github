@@ -73,6 +73,6 @@ Charm热爱开源 • Charm loves open source
 [charm]: https://github.com/charmbracelet
 [bubbles]: https://github.com/charmbracelet/bubbles
 [bubbletea]: https://github.com/charmbracelet/bubbletea
-[new-discussion]: https://github.com/orgs/charm-community/discussions/new/choose
-[additional-bubbles]: https://github.com/charm-community/additional-bubbles
-[charm-in-the-wild]: https://github.com/charm-community/charm-in-the-wild
+[new-discussion]: https://github.com/orgs/charm-and-friends/discussions/new/choose
+[additional-bubbles]: https://github.com/charm-and-friends/additional-bubbles
+[charm-in-the-wild]: https://github.com/charm-and-friends/charm-in-the-wild

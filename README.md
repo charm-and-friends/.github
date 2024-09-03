@@ -6,4 +6,4 @@ discussions for the organization.
 If you're interested in becoming a contributor, please see the [code of
 conduct][conduct].
 
-[conduct]: https://github.com/charm-community/.github/blob/main/CODE_OF_CONDUCT.md
+[conduct]: https://github.com/charm-and-friends/.github/blob/main/CODE_OF_CONDUCT.md
