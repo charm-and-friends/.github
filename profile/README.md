@@ -64,7 +64,7 @@ We’d love to hear your thoughts on this project. Join the chatter happening on
 
 ***
 
-Part of the [Charm](https://charm.sh) Community.
+Part of [Charm](https://charm.sh) and Friends.
 
 <a href="https://charm.sh/"><img alt="The Charm logo" src="https://stuff.charm.sh/charm-badge.jpg" width="400"></a>
 
