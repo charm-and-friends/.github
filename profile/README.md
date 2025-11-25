@@ -28,8 +28,10 @@ This is the spot for all community-led projects, with official backing from <a h
 
 ## Projects
 
-- [Charm in the Wild][charm-in-the-wild], the best of what the CLI has to offer.
-- [Additional Bubbles][additional-bubbles], a collection of Bubbles for the [Bubble Tea][bubbletea] library.
+- [Charm in the Wild][charm-in-the-wild] -The best of what the CLI has to offer.
+- [Additional Bubbles][additional-bubbles] - A collection of Bubbles for the [Bubble Tea][bubbletea] library.
+- [tapioca][tapioca] - Floating progress bar compatible with any loggers that you might use. 
+- [freeze.nvm][freeze.nvim] -  A wrapper for charm's freeze cli tool for usage in neovim.
 
 ## How can I get involved?
 
@@ -76,3 +78,5 @@ Charm热爱开源 • Charm loves open source
 [new-discussion]: https://github.com/orgs/charm-and-friends/discussions/new/choose
 [additional-bubbles]: https://github.com/charm-and-friends/additional-bubbles
 [charm-in-the-wild]: https://github.com/charm-and-friends/charm-in-the-wild
+[tapioca]: https://github.com/charm-and-friends/tapioca
+[freeze.nvim]: https://github.com/charm-and-friends/freeze.nvim
